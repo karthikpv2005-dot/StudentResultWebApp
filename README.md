@@ -112,7 +112,7 @@ StudentResultWebApp/
 
 **Team Name:** Java Junction  
 
-- Basil — frontend 
+- Basil ahmed — frontend 
 - Karthik P V — backend  
 
 ---
@@ -122,4 +122,7 @@ StudentResultWebApp/
 Java OOPJ Mini Project — Student Result Processing System
 
 ---
+## Contribution
+- Frontend UI and JSP pages: Basil
+- Backend logic, database, and servlets: Karthik
 
