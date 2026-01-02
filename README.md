@@ -1,4 +1,4 @@
-# 🎓 Student Result WebApp
+# 🎓 Student Result Processing System
 
 A web-based application for managing student marks, storing results in a database, and analyzing performance using charts.  
 Teachers can log in, enter student marks, generate grades, and view records in a structured dashboard.
